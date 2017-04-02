@@ -1,0 +1,11 @@
+{
+  "name": "infinite-virtual-scroll",
+  "version": "1.0.0",
+  "description": "Infinite virtual scroll is to handle millions of record with virtual scroll and performance effactive.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jagdeep Singh <singh.jagdeep91@gmail.com>",
+  "license": "MIT"
+}
